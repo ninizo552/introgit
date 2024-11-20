@@ -1,0 +1,33 @@
+header{
+    height: 100px;
+    /* background-color: brown; */
+    border :3px solid black;
+}
+nav{
+    height: 50px;
+    background-color:#965AF5;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding-right: 50px;
+}
+body {
+    background-color: lightblue;
+}
+.noticia{
+    background-color: yellow;
+}
+.foto{
+    background-color: blue;
+}
+.fiesta{
+    height: 150px;
+    width: 180px;
+}
+.ultimahora{
+    color: chocolate;
+}
+.fila{
+    margin-bottom: 70px;
+}
